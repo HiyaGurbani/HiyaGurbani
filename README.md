@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Hiya Gurbani
 
-![Profile Banner]((https://drive.google.com/file/d/1LYQPNx71XyAPKe6RAtBNejWVjhVIpLu1/view?usp=sharing))  
+![Profile Banner](https://drive.google.com/file/d/1LYQPNx71XyAPKe6RAtBNejWVjhVIpLu1/view?usp=sharing). 
 
 ### 🚀 About Me
 I'm a passionate **Computer Science student** at Poornima Institute of Engineering and Technology with a keen interest in **Software Development, Machine Learning, Blockchain, and Cybersecurity**. My goal is to create impactful solutions and contribute to the tech community.
