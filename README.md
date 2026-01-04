@@ -1,5 +1,14 @@
 # Hi there! 👋 I'm Hiya Gurbani
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38C2FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%BB;Full+Stack+Enthusiast+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;350%2B+LeetCode+Problems+%E2%9C%85" alt="Typing SVG" />
+</p>
+
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hiyagurbani&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/hiyagurbani?style=for-the-badge&color=blue" alt="Followers" />
+</p> -->
+
 ### 🚀 About Me
 I'm a passionate final-year **Computer Science student** at Poornima Institute of Engineering and Technology (CGPA: 9.64) with a keen interest in **Backend Development, Full Stack Engineering, and Problem Solving**. My goal is to build scalable, impactful solutions and contribute to the tech community through innovative projects.
 
@@ -109,15 +118,20 @@ I'm a passionate final-year **Computer Science student** at Poornima Institute o
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiyagurbani&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hiyagurbani&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiyagurbani&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiyagurbani&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiyagurbani&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiyagurbani&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiyagurbani&theme=tokyo-night&hide_border=false&border_radius=10" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hiyagurbani&theme=tokyonight&no-frame=false&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -127,7 +141,7 @@ I'm a passionate final-year **Computer Science student** at Poornima Institute o
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hiyagurbani)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hiyagurbani.vercel.app)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/hiyagurbani)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiyagurbani12@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiyagurbani@gmail.com)
 
 ---
 
